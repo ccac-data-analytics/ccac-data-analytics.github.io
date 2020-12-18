@@ -29,7 +29,7 @@ Upon successful completion of the program, the graduate will:
 
 *    DAT 115 Ethics of Machine Learning - 3 credits
 *    DAT 203 Data Visualization and Business Intelligence
-     or
+     **or**
      DAT 241 Geospatial Data Analytics - 3 credits
    
 ### Fourth Semester (6 credits)
