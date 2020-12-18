@@ -1,4 +1,4 @@
-[Home](../) > [Curriculum](../curriculum) > Certificate
+[Home](../) > [Curriculum](index.html) > Certificate
 
 # Data Analytics, Certificate (789.1)
 
