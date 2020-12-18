@@ -1,6 +1,6 @@
 # CCAC Data Analytics
 
-* Information about curriculum:
-	* For our [Certificate](cert_curriculum.html)
-	* For our [Associates degree](as_curriculum.html)
+* Information about [curriculum](curriculum):
+	* For our [Certificate](curriculum/cert_curriculum.html)
+	* For our [Associates degree](curriculum/as_curriculum.html)
 * Announcements

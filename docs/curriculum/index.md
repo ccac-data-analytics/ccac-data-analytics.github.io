@@ -7,13 +7,13 @@
 
 ## Information about specific courses
 
-*    DAT 102 Introduction to Data Analytics - 3 credits
-*    DAT 119 Python 1 - 4 credits
-*    DAT 129 Python 2 - 4 credits
-*    DAT 229 Tabular and Linked Data - 4 credits
-*    DAT 115 Ethics of Machine Learning - 3 credits
-*    DAT 203 Data Visualization and Business Intelligence - 3 credits
-*    DAT 241 Geospatial Data Analytics - 3 credits
-*    DAT 202 Advanced Analytic Methods - 3 credits
-*    DAT 281 Project in Data Analytics - 3 credits
-*    DAT 280 Fundamentals of Machine Learning - 3 credits
+*  [DAT 102 Introduction to Data Analytics](dat102.html) - 3 credits
+*  [DAT 119 Python 1](dat119.html) - 4 credits
+*  [DAT 129 Python 2](dat129.html) - 4 credits
+*  [DAT 229 Tabular and Linked Data](dat229.html) - 4 credits
+*  [DAT 115 Ethics of Machine Learning](dat115.html) - 3 credits
+*  [DAT 203 Data Visualization and Business Intelligence](dat203.html) - 3 credits
+*  [DAT 241 Geospatial Data Analytics](dat241.html) - 3 credits
+*  [DAT 202 Advanced Analytic Methods](dat202.html) - 3 credits
+*  [DAT 281 Project in Data Analytics](dat281.html) - 3 credits
+*  [DAT 280 Fundamentals of Machine Learning](dat280.html) - 3 credits
