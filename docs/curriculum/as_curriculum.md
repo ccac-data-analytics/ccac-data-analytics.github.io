@@ -1,4 +1,4 @@
-[Home](../) > [Curriculum](curriculum.html) > A.S. Degree
+[Home](../) > [Curriculum](index.html) > A.S. Degree
 
 # Data Analytics Technology, A.S. (788.2)
 
@@ -20,33 +20,33 @@ Upon successful completion of the program, the graduate will:
 
 ### First Semester (17-18 credits)
 
-*    DAT 102 Introduction to Data Analytics - 3 credits
-*    DAT 119 Python 1 - 4 credits
+*  [DAT 102 Introduction to Data Analytics](dat102.html) - 3 credits
+*  [DAT 119 Python 1](dat119.html) - 4 credits
 *    ENG 101 English Composition 1 - 3 credits
 *    MAT 108 Intermediate Algebra - 4 credits
 *    CHOOSE SCI Science Elective - 3-4 credits
 
 ### Second Semester (18 credits)
 
-*    DAT 129 Python 2 - 4 credits
-*    DAT 229 Tabular and Linked Data - 4 credits
+*  [DAT 129 Python 2](dat129.html) - 4 credits
+*  [DAT 229 Tabular and Linked Data](dat229.html) - 4 credits
 *    ENG 102 English Composition 2 - 3 credits
 *    MAT 120 Analytical Methods - 4 credits
 *    SPH 101 Oral Communication - 3 credits
 
 ### Third Semester (16 credits)
 
-*    DAT 115 Ethics of Machine Learning - 3 credits
-*    DAT 203 Data Visualization and Business Intelligence
+*  [DAT 115 Ethics of Machine Learning](dat115.html) - 3 credits
+*  [DAT 203 Data Visualization and Business Intelligence](dat203.html) - 3 credits
      **or**
-     DAT 241 Geospatial Data Analytics - 3 credits
+   [DAT 241 Geospatial Data Analytics](dat241.html) - 3 credits
 *    DAT 204 R for Analytics - 3 credits
 *    MAT 165 Probability & Statistics - 4 credits
 *    CHOOSE SOSC Social Science Elective - 3 credits
    
 ### Fourth Semester (13 credits)
 
-*    DAT 202 Advanced Analytic Methods - 3 credits
-*    DAT 281 Project in Data Analytics - 3 credits
+*  [DAT 202 Advanced Analytic Methods](dat202.html) - 3 credits
+*  [DAT 281 Project in Data Analytics](dat281.html) - 3 credits
 *    MAT 220 Business Calculus - 4 credits
 *    CHOOSE SOSC Social Science Elective - 3 credits
