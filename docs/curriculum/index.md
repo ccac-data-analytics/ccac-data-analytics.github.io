@@ -17,3 +17,6 @@
 *  [DAT 202 Advanced Analytic Methods](dat202.html) - 3 credits
 *  [DAT 281 Project in Data Analytics](dat281.html) - 3 credits
 *  [DAT 280 Fundamentals of Machine Learning](dat280.html) - 3 credits
+
+
+Note: the DAT faculty does not endorse the omission of the serial comma in lists, but it is College policy that serial commas are not to be used in our catalog. We have left them out of the above courses so that what is here will match the 2021 catalog as closely as possible.
