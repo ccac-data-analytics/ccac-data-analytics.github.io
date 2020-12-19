@@ -11,9 +11,10 @@ If you began or will begin the A.S. before Fall 2021, you can choose to follow [
 This certificate prepares students for entry level positions in the field of data analytics or to augment their current job roles with computer-based data analytic skills. Data analytics involves data acquisition, cleaning and preparing datasets for analysis, applying tools to investigate inquiry questions and conveying data-backed conclusions clearly to decision makers.  Geared toward degree-holding students, the certificate’s eight-course sequence prepares students with Python and R programming skills to build data pipelines connecting relational databases programming environments and data visualization tools.  
 
 Upon successful completion of the program, the graduate will:
-1) Apply programming tools to discover patterns and relationships in data sets.
-2) Design data visualizations for exploratory analysis and persuasive communication.
-3) Construct multi-step analytic tool chains through peer collaboration.
+
+1. Apply programming tools to discover patterns and relationships in data sets.
+2. Design data visualizations for exploratory analysis and persuasive communication.
+3. Construct multi-step analytic tool chains through peer collaboration.
 
 ## Course progression
 

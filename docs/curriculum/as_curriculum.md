@@ -11,10 +11,11 @@ If you began or will begin the A.S. before Fall 2021, you can choose to follow [
 This degree prepares students for entry level positions in the field of data analytics in a variety of industries or for transfer to a four-year data science program. Data analytics involves data acquisition, cleaning and preparing datasets for analysis, applying tools to investigate inquiry questions and conveying data-backed conclusions clearly to decision makers in diverse fields.  This program’s core courses prepare students with Python and R programming skills to build data pipelines connecting relational databases programming environments and data visualization tools.  
 
 Upon successful completion of the program, the graduate will:
-1) Articulate data challenges and opportunities in a variety of industries.
-2) Employ programming tools to discover patterns and relationships in data sets.
-3) Develop data visualizations for exploratory analysis and persuasive communication.
-4) Implement multi-step analytic tool chains through peer collaboration.
+
+1. Articulate data challenges and opportunities in a variety of industries.
+2. Employ programming tools to discover patterns and relationships in data sets.
+3. Develop data visualizations for exploratory analysis and persuasive communication.
+4. Implement multi-step analytic tool chains through peer collaboration.
 
 ## Course progression
 
