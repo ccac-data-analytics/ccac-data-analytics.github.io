@@ -12,6 +12,7 @@
 *  [DAT 129 Python 2](dat129.html) - 4 credits
 *  [DAT 229 Tabular and Linked Data](dat229.html) - 4 credits
 *  [DAT 115 Ethics of Machine Learning](dat115.html) - 3 credits
+*  [DAT 204 R for Analytics](dat204.html) - 3 credits
 *  [DAT 203 Data Visualization and Business Intelligence](dat203.html) - 3 credits
 *  [DAT 241 Geospatial Data Analytics](dat241.html) - 3 credits
 *  [DAT 202 Advanced Analytic Methods](dat202.html) - 3 credits
