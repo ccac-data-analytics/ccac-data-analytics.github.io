@@ -37,7 +37,7 @@ Upon successful completion of the program, the graduate will:
 
 ### Third Semester (16 credits)
 
-*  [DAT 115 Ethics of Machine Learning](dat115.html) - 3 credits
+*  [DAT 115 Ethics of Data Analytics](dat115.html) - 3 credits
 *  [DAT 203 Data Visualization](dat203.html) - 3 credits
      **or**
    [DAT 241 Geospatial Data Analytics](dat241.html) - 3 credits
