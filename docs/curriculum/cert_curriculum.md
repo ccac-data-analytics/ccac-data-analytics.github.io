@@ -2,7 +2,9 @@
 
 # Data Analytics, Certificate (789.1)
 
-If you began or will begin the A.S. before Fall 2021, you can choose to follow [the 789 version of the program](https://catalog.ccac.edu/preview_program.php?catoid=9&poid=2130&returnto=2207). There are two changes to that course progression you should be aware of: 
+*UPDATE:* [The CCAC catalog](https://catalog.ccac.edu/preview_program.php?catoid=10&poid=2459&returnto=2733) has our current program listed correctly. The information linked from this page is for reference only; the Catalog is the official information source for course information.
+
+If you began the A.S. before Fall 2021, you can choose to follow [the 789 version of the program](https://catalog.ccac.edu/preview_program.php?catoid=9&poid=2130&returnto=2207). There are two changes to that course progression you should be aware of: 
 1. DAT-202 (renamed to "Advanced Analytic Methods") now has DAT-204 as a prerequisite
 1. DAT-201 no longer exists, and instead you should take DAT-229. 
 
